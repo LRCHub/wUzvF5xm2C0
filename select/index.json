@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "月光浴",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-15T15:38:57.848672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月光浴",
+      "artist": "キマグレン",
+      "has_synced": true,
+      "path": "select/01_月光浴_キマグレン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月光浴",
+      "artist": "キマグレン",
+      "has_synced": false,
+      "path": "select/02_月光浴_キマグレン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月光浴",
+      "artist": "Illusionary ドリーミング",
+      "has_synced": true,
+      "path": "select/03_月光浴_Illusionary_ドリーミング.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "月光浴",
+      "artist": "ALI PROJECT",
+      "has_synced": false,
+      "path": "select/04_月光浴_ALI_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "月光浴",
+      "artist": "柴田　淳",
+      "has_synced": false,
+      "path": "select/05_月光浴_柴田_淳.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "月光浴",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_月光浴_ヨルシカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月光浴",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_月光浴_ヨルシカ.txt"
+    }
+  ]
+}
